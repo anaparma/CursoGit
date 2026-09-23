@@ -1,2 +1,4 @@
-iEsto es un aprueba para el ejercicio de GIT;wq
+Esto es una prueba para el ejercicio de GIT;wq
+segundo cambio
+esto agrega una linea y corrige un error en la linea 1
 
