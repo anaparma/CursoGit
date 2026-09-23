@@ -1,2 +1,2 @@
-iEsto es un aprueba para el ejercicio de GIT;wq
+Esto PRUEBA es un aprueba para el ejercicio de GIT;wq
 
